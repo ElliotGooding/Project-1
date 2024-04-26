@@ -1,0 +1,20 @@
+html, body{
+    width:100vw;
+    height:100vh;
+    margin:0;
+    overflow:hidden;
+    text-align: center;
+    background-color: rgb(165, 165, 165);
+}
+
+#canvas{
+    display: inline-block; 
+    background-color: rgb(141, 141, 141);
+    width:100vh;
+    height:100vh;
+    border: solid 1px red
+}
+
+#mySlider{
+    position: absolute;
+}
